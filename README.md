@@ -31,20 +31,19 @@ style.css – styling for both pages
 
 ---
 
-## 🔗 How to get the website link again (if you forget it in the future)
+## 🔗 How to get the website link again
 
-If you ever forget or lose the live website link, follow these steps:
 
 1. Go to **https://github.com**
-2. Open your repository named **Date**
+2. Open repository named **Date**
 3. Click on **Settings** (gear icon at the top of the repo)
 4. In the left sidebar, click **Pages**
 5. At the top of the page, you will see a message like:
 
-**Your site is live at:**  
+**website is live at:**  
 https://srikta.github.io/Date/
 
-That URL is your website’s public link.
+That URL is website’s public link.
 
 ---
 
@@ -60,6 +59,4 @@ That URL is your website’s public link.
 ## ❤️ Note
 
 Made for fun, learning, and a little courage 😊  
-Feel free to modify, reuse, or improve it.
 
-✨ Enjoy!
