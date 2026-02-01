@@ -1,20 +1,20 @@
-# 💖 Date Invitation Website
+#  Date Invitation Website
 
 A cute, fun, and interactive website made using **HTML, CSS, and JavaScript** to ask someone out in a playful way.
 
-The first page asks the question, the **“No”** button runs away 😄, and clicking **“Yes”** leads to a sweet second page with a redirect to Instagram.
+The first page asks the question, the **“No”** button runs away, and clicking **“Yes”** leads to a sweet second page with a redirect to Instagram.
 
 ---
 
 ## 🌍 Live Website (Public Link)
 
-👉 https://srikta.github.io/Date/
+ https://srikta.github.io/Date/
 
 This is the public link you can share with anyone.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 HTML  
 CSS  
@@ -47,7 +47,7 @@ That URL is website’s public link.
 
 ---
 
-## 🚀 Hosting Details
+##  Hosting Details
 
 - Platform: GitHub Pages  
 - Branch: main  
@@ -56,7 +56,7 @@ That URL is website’s public link.
 
 ---
 
-## ❤️ Note
+##  Note
 
 Made for fun, learning, and a little courage 😊  
 
