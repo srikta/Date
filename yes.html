@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yeeyy!</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="header_text">Yeeyy! Finally🤍</h1>
+
+      <div class="gif_container">
+        <img
+          src="https://i.postimg.cc/wTDG30TB/yes.gif"
+          alt="Cute animated illustration"
+        />
+      </div>
+
+      <h2 id="message" class="sub_text">Okay… let’s talk on Instagram 😊</h2>
+
+      <!-- Centered button -->
+      <div class="button-center">
+        <button class="btn date-btn" onclick="goToInstagram()">
+          Let’s Fix a Date
+        </button>
+      </div>
+    </div>
+
+    <script>
+      function goToInstagram() {
+        // hide button
+        document.querySelector(".date-btn").style.display = "none";
+
+        // show message
+        document.getElementById("message").style.display = "block";
+
+        // redirect after short pause
+        setTimeout(function () {
+          window.location.href = "https://www.instagram.com/nag_sourikta/";
+        }, 2000);
+      }
+    </script>
+  </body>
+</html>
